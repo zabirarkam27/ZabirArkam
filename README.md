@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="assets/banner2.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Zabir Arkam Akhond</h1>
