@@ -3,8 +3,8 @@
   <img src="assets/banner2.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there , I'm Zabir Arkam Akhond</h1>
-<h3 align="center"> Full Stack Web Developer | React • Next.js • TypeScript • Node.js</h3>
+<h1 align="center">Hi there 👋, I'm Zabir Arkam Akhond</h1>
+<h3 align="center">🚀 Full Stack Web Developer | React • Next.js • TypeScript • Node.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;React+%7C+Next.js+%7C+TypeScript;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -41,18 +41,39 @@ const zabir = {
 };
 ```
 
-###  Current Activities
+### 🚀 Current Activities
 
--  Building **MentorForge**
--  Building **irri-edu-bd**
--  Developing **Noor Honey E-commerce**
 -  Learning **Next.js 15**
 -  Exploring **PostgreSQL & Prisma**
 -  Improving **UI/UX Design**
 
 ---
 
-###  Tech Stack
+### 💼 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>🎓 MentorForge</strong><br/>
+      Mentorship platform connecting mentors & mentees.<br/>
+      <a href="https://mentor-forge-client.vercel.app/" target="_blank">🔗 Live Demo</a>
+    </td>
+    <td width="33%">
+      <strong>🌾 irri-edu-bd</strong><br/>
+      Educational platform for rice farming knowledge.<br/>
+      <a href="https://irri-edu-bd.vercel.app/" target="_blank">🔗 Live Demo</a>
+    </td>
+    <td width="33%">
+      <strong>🛒 Prooit</strong><br/>
+      Modern e-commerce web application.<br/>
+      <a href="https://prooit.com/" target="_blank">🔗 Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,postgres,prisma,supabase,firebase,git,github,vscode,figma&perline=8"/>
@@ -60,7 +81,7 @@ const zabir = {
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=zabirarkam27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -68,7 +89,7 @@ const zabir = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zabirarkam27&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zabirarkam27&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -81,7 +102,7 @@ const zabir = {
 
 ---
 
-###  Contact
+### 📍 Contact
 
 📍 **Location:** Dhaka, Bangladesh
 📧 **Email:** zabirarkam27@gmail.com
